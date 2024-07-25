@@ -1,0 +1,2 @@
+Como criar uma aplicação utilizando Node.js e express que permita realizar as operações CRUD em um banco de dados MySQL. 
+Utilizar Controller e Views para páginas HTML para interação do usuário do sistema. Faça uma aplicação para cadstro de Clientes
